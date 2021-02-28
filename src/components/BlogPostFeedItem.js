@@ -66,7 +66,7 @@ export default class BlogPostFeedItem extends React.Component {
                 				</div>
                 				)}
                 				{(_.get(blog_feed_section, 'show_author', null) && _.get(post, 'frontmatter.author', null)) && (
-                					<BlogPostAuthor {...this.props} author={_.get(post, 'frontmatter.author', null)} container_class={'item__byline'} avatar_size={'small'} />
+                					<BlogPostAuthor {...this.props} author={_.get(post, 'frontmatter.author', null)} container_class={'item__byline'} avatar_size={''} />
                 				)}
                 			</div>
                 		</div>
