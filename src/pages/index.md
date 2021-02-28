@@ -55,7 +55,7 @@ sections:
     title: من منصورم
     subtitle: What I do
     features:
-      - title: بریم بازی
+      - title:  بازی
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
