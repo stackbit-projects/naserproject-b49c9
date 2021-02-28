@@ -1,5 +1,5 @@
 ---
-title: Home
+title: family
 sections:
   - type: hero_section
     title: 'Hi , I am mansour'
