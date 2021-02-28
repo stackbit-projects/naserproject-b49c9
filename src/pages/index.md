@@ -55,7 +55,7 @@ sections:
     title: من منصورم
     subtitle: What I do
     features:
-      - title:  بازی
+      - title: بازی
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
@@ -85,7 +85,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-2.svg
+        image: images/hero.png
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
